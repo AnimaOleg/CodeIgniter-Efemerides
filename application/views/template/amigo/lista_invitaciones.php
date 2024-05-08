@@ -1,0 +1,1 @@
+<?php echo get_list_friends_invitaciones(); ?>
